@@ -1,4 +1,4 @@
-### Hi there 👋. Welcome to my github page😁! Feel free to take a look at some of my (pinned) repositories. Also, have a look at my site: [jennovink.nl](https://www.jennovink.nl)
+### Hi there 👋. Welcome to my github page😁! Feel free to take a look at some of my (pinned) repositories. Also, have a look at my site: [jenno-vink.nl](https://www.jenno-vink.nl)
 
 <!--
 **JennoVink/jennovink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
